@@ -1,0 +1,79 @@
+[
+    {
+        "id": "1",
+        "letter": "A",
+        "name": "Update",
+        "color": "A橙色",
+        "rgb": "#dc8244"
+    },
+    {
+        "id": "2",
+        "letter": "B",
+        "name": "Sequence II",
+        "color": "B蓝色",
+        "rgb": "#4f70bd"
+    },
+    {
+        "id": "3",
+        "letter": "C",
+        "name": "Goose Goose Duck",
+        "color": "C黄色",
+        "rgb": "#fdff54"
+    },
+    {
+        "id": "4",
+        "letter": "D",
+        "name": "CCPC",
+        "color": "D绿色",
+        "rgb": "#4fac5c"
+    },
+    {
+        "id": "5",
+        "letter": "E",
+        "name": "Breakfast II",
+        "color": "E浅绿色",
+        "rgb": "#9ecd63"
+    },
+    {
+        "id": "6",
+        "letter": "F",
+        "name": "3 Split",
+        "color": "F深紫色",
+        "rgb": "#5d0d62"
+    },
+    {
+        "id": "7",
+        "letter": "G",
+        "name": "Bracelet",
+        "color": "G红色",
+        "rgb": "#e93423"
+    },
+    {
+        "id": "8",
+        "letter": "H",
+        "name": "Missing Iris",
+        "color": "H墨绿色",
+        "rgb": "#3d5428"
+    },
+    {
+        "id": "9",
+        "letter": "I",
+        "name": "Subnet",
+        "color": "I浅蓝色",
+        "rgb": "#4eacea"
+    },
+    {
+        "id": "10",
+        "letter": "J",
+        "name": "Iris' Food",
+        "color": "J紫色",
+        "rgb": "#bb27f5"
+    },
+    {
+        "id": "11",
+        "letter": "K",
+        "name": "Welcome",
+        "color": "K粉色",
+        "rgb": "#ef70c9"
+    }
+]

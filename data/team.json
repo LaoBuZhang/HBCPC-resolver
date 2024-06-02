@@ -1,0 +1,32 @@
+{
+    "1793633879533223936": {
+        "team_id": "1793633879533223936",
+        "name": "小汤河职业技术学院_稀泥柯基",
+        "organization": "小汤河职业技术学院",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": "张三",
+        "members": [
+            "李四",
+            "王五",
+            "赵六"
+        ]
+    },
+    "1793645055033921536": {
+        "team_id": "1793645055033921536",
+        "name": "东北大学秦皇岛分校沈阳分校_济公",
+        "organization": "东北大学秦皇岛分校沈阳分校",
+        "official": true,
+        "unofficial": false,
+        "girl": false,
+        "group": [],
+        "coach": "张三",
+        "members": [
+            "李四",
+            "王五",
+            "赵六"
+        ]
+    }
+}

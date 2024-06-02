@@ -1,0 +1,14 @@
+---- ICPC Award Utility (2.5.940) ----
+OS:  Windows 11 (amd64/10.0)
+JRE: Oracle Corporation (11.0.23)
+Folder: C:\Users\Gigi\Desktop\resolver2.5
+Host: LAPTOP-A9UI1HFT / 192.168.192.1
+Locale/TZ: zh_CN / 中国标准时间
+Args: 
+Log started 2024.05.26 15:37.04
+
+2024.05.26 15:38.17 I Loading contest from DiskContestSource[C:\Users\Gigi\Desktop\hbcpc\resolver\config\test1.json/C:\Users\Gigi\AppData\Local\Temp\org.icpc.tools.cache.test1.json-CUsersGigiDesktophbcpcresolverconfigtest1json]
+2024.05.26 15:38.17 W Unknown property ignored: teams/university
+2024.05.26 15:38.17 I Time to load EF: 975ms
+2024.05.26 15:38.17 I Contest loaded
+2024.05.26 15:48.28 I Event feed saved to: C:\Users\Gigi\Desktop\event-feed.ndjson

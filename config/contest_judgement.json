@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "acronym": "AC",
+        "name": "Yes - Accepted",
+        "solved": "true",
+        "penalty": "false"
+    },
+    {
+        "id": "2",
+        "acronym": "WA",
+        "name": "No - Wrong Answer",
+        "solved": "false",
+        "penalty": "true"
+    },
+    {
+        "id": "3",
+        "acronym": "TLE",
+        "name": "No - Time Limit Exceeded",
+        "solved": "false",
+        "penalty": "true"
+    },
+    {
+        "id": "4",
+        "acronym": "NZEC",
+        "name": "No - Non Zero Exit Code",
+        "solved": "false",
+        "penalty": "true"
+    },
+    {
+        "id": "5",
+        "acronym": "CE",
+        "name": "No - Compile Error",
+        "solved": "false",
+        "penalty": "false"
+    },
+    {
+        "id": "6",
+        "acronym": "PE",
+        "name": "No - Presentation Error",
+        "solved": "false",
+        "penalty": "true"
+    },
+    {
+        "id": "7",
+        "acronym": "SF",
+        "name": "No - Segmentation Fault",
+        "solved": "false",
+        "penalty": "true"
+    },
+    {
+        "id": "8",
+        "acronym": "MLE",
+        "name": "No - Memory Limit Exceeded",
+        "solved": "false",
+        "penalty": "true"
+    },
+    {
+        "id": "9",
+        "acronym": "RE",
+        "name": "No - Runtime Error",
+        "solved": "false",
+        "penalty": "true"
+    },
+    {
+        "id": "10",
+        "acronym": "OLE",
+        "name": "No - Output Limit Exceeded",
+        "solved": "false",
+        "penalty": "true"
+    }
+]
